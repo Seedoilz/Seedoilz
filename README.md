@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Seedoilz.
+<h2> Hey there! I'm seedoilz.
 <img align="right" alt="GIF" src="https://github.com/Seedoilz/Seedoilz/blob/a60b7b53426352f5058b77ead165a50155b64d5e/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
