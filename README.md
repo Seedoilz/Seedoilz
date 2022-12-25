@@ -1,4 +1,4 @@
-<h2> Hey there! I'm seedoilz.<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm seedoilz.<img src="https://github.com/seedoilz/seedoilz/blob/7f7a50598d8f07d65b8d0fcf2061495dec3373d5/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Seedoilz/Seedoilz/blob/a60b7b53426352f5058b77ead165a50155b64d5e/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
