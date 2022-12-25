@@ -21,11 +21,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Seedoilz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Seedoilz's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seedoilz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="seedoilz's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seedoilz&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Seedoilz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seedoilz&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/seedoilz/github-readme-stats)
 
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
