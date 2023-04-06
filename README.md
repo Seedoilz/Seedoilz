@@ -9,7 +9,7 @@
 - 💼 &nbsp; Student.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and listening music.
-- ☕ &nbsp; Catch every second to fly.
+- ☕ &nbsp; Seize every second to fly.
 
 <h3>🛠 Tech Stack</h3>
 
