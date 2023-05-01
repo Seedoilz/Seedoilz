@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; JetBrains | Git
 - 🖥 &nbsp; Photoshop 
 
 <br>
