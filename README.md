@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- 🛢 &nbsp; MySQL
-- 🔧 &nbsp; JetBrains | Git
-- 🖥 &nbsp; Photoshop 
+- 💻 &nbsp; Python | Java | GO | C++  
+- 🌐 &nbsp; VUE | REACT | Typescript
+- 🛢 &nbsp; MySQL | neo4j | MongoDB
+- 🔧 &nbsp; Photoshop
+- 🖥 &nbsp;  Macos | Windows | Linux
 
 <br>
 
